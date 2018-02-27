@@ -29,7 +29,11 @@ mern-comment-box/
     styles.js
 ```
 
-For the project to build run npm install and npm run start-dev inside mern-comment-box folder.
+For the project to build run:
+## npm install
+and
+##npm run start-dev 
+inside mern-comment-box folder.
 
 ## Supported Browsers
 By default, the generated project uses the latest version of React.
