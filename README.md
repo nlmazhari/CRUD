@@ -32,7 +32,7 @@ mern-comment-box/
 For the project to build run:
 ## npm install
 and
-##npm run start-dev 
+## npm run start-dev 
 inside mern-comment-box folder.
 
 ## Supported Browsers
